@@ -1,1 +1,3 @@
-Aqui está os trabalhos pedidos pelo professor julio e também as atividades dos outros professores 
+Nessa pasta podemos analisar as atividades, de Algoritmo onde foi feita uma atividade para gerarmos uma senha token para a pessoa acessar o formulario de pesquisa, essa senha deveria ser aleatoria e também conforme parametros passados em aulas.
+Na atividade de Engenharia de Software, nós organizamos toda parte de levantar oque o sistema utilizaria desde seus requisitos funcionais nao funcionais, até a parte lógica do sistema entre outros requisitos
+Na atividade de Projeto integrador, tevemos alguns trabalhos iniciais para falar sobre algumas arquiteturas e também outro trabalho sobre frameworks, já a atividade final foi passarmos a parte que fizemos em engenharia de software, todos requisitos pesquisas que fizemos e passar para a o arquivo em ABNT 
